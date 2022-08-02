@@ -16,3 +16,11 @@ php artisan make:factory ArticleFactory --model=Article
 php artisan make:factory CommentFactory --model=Comment
 php artisan make:factory TagFactory --model=Tag
 php artisan make:factory StateFactory --model=State
+
+
+git init
+git add .
+git commit -m "commit description"
+
+git push origin master
+git pull origin master
